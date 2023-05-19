@@ -29,6 +29,6 @@ Add = add(45, 55)
 def halve(number):
     return (int(number)) / 2
 
+
 def halve(number):
     return (float(number)) / 2
-
